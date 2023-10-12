@@ -1,5 +1,7 @@
 # Ojos Project
 
+![Ojos Project Header](../.github/header.png)
+
 Welcome to the Ojos Project, a research project under the [Undergraduate Research Lab](https://markbaldw.in/url/) project at the [University of California, Irvine](https://uci.edu).
 
 ## Project
