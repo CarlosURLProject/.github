@@ -10,5 +10,5 @@ Any code written for this project will be open source.
 
 ## Members
 
-* Carlos Valdez (@calejvaldez)
-* Joseph Sweatt (@Electric108)
+* [Carlos Valdez](https://github.com/calejvaldez/)
+* [Joseph Sweatt](https://github.com/Electric108)
