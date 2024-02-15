@@ -1,3 +1,3 @@
 # Ojos Project moved to GitLab
 
-This project has [moved to GitLab](https://gitlab.com/ojosproject/).
+This is a mirror of our [GitLab repositories](https://gitlab.com/ojosproject/). All work happens on GitLab.
